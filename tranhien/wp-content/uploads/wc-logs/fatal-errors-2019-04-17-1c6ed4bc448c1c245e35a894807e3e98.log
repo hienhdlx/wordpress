@@ -1,0 +1,46 @@
+2019-04-17T04:06:09+00:00 CRITICAL Uncaught Error: Call to undefined function yith_wcwl_object_id() in C:\xampp\htdocs\tranhien\wp-content\themes\ecommerce-gem\woocommerce\content-product.php:70
+Stack trace:
+#0 C:\xampp\htdocs\tranhien\wp-includes\template.php(706): require()
+#1 C:\xampp\htdocs\tranhien\wp-content\plugins\woocommerce\includes\wc-core-functions.php(181): load_template('C:\\xampp\\htdocs...', false)
+#2 C:\xampp\htdocs\tranhien\wp-content\plugins\woocommerce\templates\archive-product.php(72): wc_get_template_part('content', 'product')
+#3 C:\xampp\htdocs\tranhien\wp-includes\template-loader.php(77): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\tranhien\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\tranhien\index.php(17): require('C:\\xampp\\htdocs...')
+#6 {main}
+  thrown in C:\xampp\htdocs\tranhien\wp-content\themes\ecommerce-gem\woocommerce\content-product.php on line 70
+
+2019-04-17T04:06:46+00:00 CRITICAL Uncaught Error: Call to undefined function yith_wcwl_object_id() in C:\xampp\htdocs\tranhien\wp-content\themes\ecommerce-gem\woocommerce\content-product.php:70
+Stack trace:
+#0 C:\xampp\htdocs\tranhien\wp-includes\template.php(706): require()
+#1 C:\xampp\htdocs\tranhien\wp-content\plugins\woocommerce\includes\wc-core-functions.php(181): load_template('C:\\xampp\\htdocs...', false)
+#2 C:\xampp\htdocs\tranhien\wp-content\plugins\woocommerce\templates\archive-product.php(72): wc_get_template_part('content', 'product')
+#3 C:\xampp\htdocs\tranhien\wp-includes\template-loader.php(77): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\tranhien\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\tranhien\index.php(17): require('C:\\xampp\\htdocs...')
+#6 {main}
+  thrown in C:\xampp\htdocs\tranhien\wp-content\themes\ecommerce-gem\woocommerce\content-product.php on line 70
+
+2019-04-17T05:00:30+00:00 CRITICAL Uncaught Error: Call to undefined function yith_wcwl_object_id() in C:\xampp\htdocs\tranhien\wp-content\themes\ecommerce-gem\woocommerce\content-product.php:70
+Stack trace:
+#0 C:\xampp\htdocs\tranhien\wp-includes\template.php(706): require()
+#1 C:\xampp\htdocs\tranhien\wp-content\plugins\woocommerce\includes\wc-core-functions.php(181): load_template('C:\\xampp\\htdocs...', false)
+#2 C:\xampp\htdocs\tranhien\wp-content\plugins\woocommerce\templates\archive-product.php(72): wc_get_template_part('content', 'product')
+#3 C:\xampp\htdocs\tranhien\wp-includes\template-loader.php(77): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\tranhien\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\tranhien\index.php(17): require('C:\\xampp\\htdocs...')
+#6 {main}
+  thrown in C:\xampp\htdocs\tranhien\wp-content\themes\ecommerce-gem\woocommerce\content-product.php on line 70
+
+2019-04-17T05:01:36+00:00 CRITICAL Uncaught Error: Call to undefined function yith_wcwl_object_id() in C:\xampp\htdocs\tranhien\wp-content\themes\ecommerce-gem\woocommerce\content-product.php:70
+Stack trace:
+#0 C:\xampp\htdocs\tranhien\wp-includes\template.php(706): require()
+#1 C:\xampp\htdocs\tranhien\wp-content\plugins\woocommerce\includes\wc-core-functions.php(181): load_template('C:\\xampp\\htdocs...', false)
+#2 C:\xampp\htdocs\tranhien\wp-content\plugins\woocommerce\templates\archive-product.php(72): wc_get_template_part('content', 'product')
+#3 C:\xampp\htdocs\tranhien\wp-content\plugins\woocommerce\includes\wc-core-functions.php(211): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\tranhien\wp-content\plugins\woocommerce\templates\taxonomy-product_cat.php(22): wc_get_template('archive-product...')
+#5 C:\xampp\htdocs\tranhien\wp-includes\template-loader.php(77): include('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\tranhien\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\tranhien\index.php(17): require('C in C:\xampp\htdocs\tranhien\wp-content\themes\ecommerce-gem\woocommerce\content-product.php on line 70
+
+2019-04-17T07:24:29+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\tranhien\wp-includes\Requests\Transport\cURL.php on line 163
+
